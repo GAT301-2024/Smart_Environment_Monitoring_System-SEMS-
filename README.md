@@ -45,4 +45,3 @@ This project uses a DHT11 sensor to measure temperature and humidity levels. The
 ## Additional Notes
 - Ensure the DHT11 sensor is connected properly to avoid incorrect readings.
 - The thresholds for temperature and humidity can be adjusted in the code as needed.
-- This project can be extended by adding features like data logging or remote monitoring.
