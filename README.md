@@ -20,7 +20,7 @@ The Smart Monitoring Environment Systems (SEMs) project is designed to monitor t
 - **LiquidCrystal_I2C Library** - [Download](https://github.com/johnrickman/LiquidCrystal_I2C)
 
 ## Circuit Diagram
-![Circuit Diagram](schematic.png)q
+![Circuit Diagram](schematic.png)
 
 ## Setup Instructions
 1. **Hardware Setup:**
