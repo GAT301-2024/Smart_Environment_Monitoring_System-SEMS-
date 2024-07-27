@@ -22,7 +22,7 @@ This project uses a DHT11 sensor to measure temperature and humidity levels. The
 
 
 ## Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](schematic.png)
 
 
 ## Setup Instructions
