@@ -1,7 +1,7 @@
 # KUBOMU-EDWIN-23-U-2223-GIM-PS
 
 # Smart Monitoring Environment Systems (SEMs)
-> Seen and Evaluated
+> Seen and Evaluated by AJr.Allan
 ## Overview
 The Smart Monitoring Environment Systems (SEMs) project is designed to monitor temperature and humidity using a DHT11 sensor. The system displays the readings on an I2C LCD and uses LED indicators (green and red) to signal if the environmental conditions exceed specified thresholds. The system alerts the user when the temperature exceeds 25°C or the humidity exceeds 60%.
 
