@@ -22,6 +22,10 @@ The Smart Monitoring Environment Systems (SEMs) project is designed to monitor t
 ## Circuit Diagram
 ![Circuit Diagram](schematic.png)
 
+## Working System
+![Working system](SEMs.png)
+
+
 ## Setup Instructions
 1. **Hardware Setup:**
    - **DHT11 Sensor:**
